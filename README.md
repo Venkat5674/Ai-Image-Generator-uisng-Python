@@ -1,7 +1,7 @@
 🖼️ AI Image Generator using Stable Diffusion in Google Colab
 This project demonstrates the power of AI in generating visually stunning and imaginative images using Stable Diffusion. With Python and Google Colab, you can create unique AI-generated art simply by crafting a creative prompt.
 
-🚀 Features
+!🚀 Features
 Generate Stunning Images: Create high-quality images based on textual descriptions.
 GPU-Accelerated: Leverages CUDA for faster image generation.
 Customizable Prompts: Adjust the description to generate various styles and themes.
